@@ -7,7 +7,7 @@ Video Editor | Data Analyst
 I am a student and loves Learning New Every day!
 
 * 🌍  I'm based in Andhra Pradesh , India
-* ✉️  You can contact me at [manikantakuna225@gmail.com](mailto:manikantakuna225@gmail.com)
+* ✉️  You can contact me
 * 🚀  I'm currently working on [Youth India Foundation](http://youthindiafoundation.com)
 * 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Projects
