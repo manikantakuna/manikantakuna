@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manikanta Kuna
 ======================================================================================================================================
 
-Video Editor | Data Analyst
+Video Editor | Game design 
 ---------------------------
 
 I am a student and loves Learning New Every day!
 
-* 🌍  I'm based in Andhra Pradesh , India
-* ✉️  You can contact me
-* 🚀  I'm currently working on [Youth India Foundation](http://youthindiafoundation.com)
-* 🧠  I'm learning Data Structures & Algorithms
+* 🌍  I'm based in Andhra Pradesh ,India 
+* 🧠  I'm learning Game Development 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman,Tell Everyone
 
